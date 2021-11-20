@@ -1,0 +1,37 @@
+1.Black box testing:
+  Black box testing is used to test the system against external factors responsible for software failures. 
+  this testing approach focuses on the input that goes into the software, and the output that is produced.
+  the testing team does not cover the inside details such as code, server logic, and development method.
+
+2.White Box Testing:
+  White box testing involves testing the product's underlying structure, architecture,
+  and code to validate input-output flow and enhance design, usability, and security.
+
+3.Regression Testing: 
+  Regression testing is performed to determine if code modifications break an application or consume resources.
+
+4.Smoke Testing: 
+  This type of software testing validates the stability of a software application, 
+  it is performed on the initial software build to ensure that the critical functions of the program are working.
+
+5.Alpha Testing:
+  This is a type of validation testing. It is a type of acceptance testing which is done before the product is released to customers. 
+  it is typically done by QA people.
+
+6.Beta Testing:
+  The beta test is conducted at one or more customer sites by the end-user of the software,
+  this version is released for a limited number of users for testing in a real-time environment..
+
+7. System Testing:
+   This software is tested such that it works fine for the different operating systems.
+   it is covered under the black box testing technique.in this we just focus on the required input and output without focusing on internal working. 
+   in this we have security testing, recovery testing, stress testing, and performance testing.
+
+8. Stress Testing:
+   Stress testing is a software testing activity that tests beyond normal operational capacity to test the results.
+
+9.Performance Testing:
+  it is designed to test the run-time performance of software within the context of an integrated system.
+  it is used to test the speed and effectiveness of the program. It is also called load testing. 
+  in it we check, what is the performance of the system in the given load.
+
